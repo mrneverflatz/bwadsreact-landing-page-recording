@@ -11,15 +11,16 @@ module.exports = {
     extend: {
       colors: {
         ...colors,
-        ring: {
-          ...colors,
-        },
-        fill: {
-          ...colors,
-        },
-        fontFamily: {
-          sans: ["Poppins"],
-        },
+      },
+      ring: {
+        ...colors,
+      },
+      fill: {
+        ...colors,
+        "yellow-star": "#F3A939",
+      },
+      fontFamily: {
+        sans: ["Poppins"],
       },
     },
   },
