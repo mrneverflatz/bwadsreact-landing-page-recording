@@ -111,9 +111,9 @@ function Pricing() {
                           <path
                             d="M5.83325 10L8.46483 12.5L14.1666 7.5"
                             className="stroke-white"
-                            stroke-width="2"
+                            strokeWidth="2"
                             strokeLinecap="round"
-                            stroke-linejoin="round"
+                            strokeLinejoin="round"
                           />
                         </svg>
                       </span>
